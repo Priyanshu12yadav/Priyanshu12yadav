@@ -6,8 +6,6 @@
 
 
 
- 👨‍💻 All of my projects are available at [https://priyanshu12yadav.github.io/Portfolio/](https://priyanshu12yadav.github.io/Portfolio/)
-
  📫 How to reach me **yadavpriyanshu975@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
